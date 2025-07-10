@@ -1,0 +1,3 @@
+19468 /media/sf_linux_practice_bundle/practice/logs/web_access.log
+10644 /media/sf_linux_practice_bundle/practice/logs/syslog.log
+8192 /media/sf_linux_practice_bundle/practice/customers.db
